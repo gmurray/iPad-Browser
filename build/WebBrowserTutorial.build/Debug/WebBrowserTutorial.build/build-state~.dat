@@ -1,0 +1,56 @@
+TWebBrowserTutorial
+v7
+r1
+cCheck dependencies
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib
+c0000000048E15EB10000000000002487
+t1222729393
+s9351
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug/WebBrowserTutorial.app
+t2
+s0
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug/WebBrowserTutorial.app/Contents/Info.plist
+t2
+s0
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug/WebBrowserTutorial.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug/WebBrowserTutorial.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug/WebBrowserTutorial.app/Contents/Resources/sample.html
+t2
+s0
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/sample.html
+c0000000048DD849A0000000000000AF0
+t1222476954
+s2800
+
+NInfo.plist
+c0000000048E15E0D0000000000000381
+t1222729229
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287198235#287198235#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos2.1'1(4@58"error: There is no SDK with the name or path 'iphoneos2.1'287198235#18446744073709551615#0#0(1@0"0(0#1#0"4300903632#0"0#
+
+CCompileXIB /Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib
+r0
+
+CCpResource build/Debug/WebBrowserTutorial.app/Contents/Resources/sample.html sample.html
+r0
+
+CProcessInfoPlistFile /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug/WebBrowserTutorial.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug/WebBrowserTutorial.app
+r0
+

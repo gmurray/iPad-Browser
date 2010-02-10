@@ -1,0 +1,313 @@
+TWebBrowserTutorial
+v7
+r0
+t287462150.800509
+cCheck dependencies
+cProcessInfoPlistFile /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist Info.plist
+cCompileXIB /Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib
+cProcessPCH /var/folders/c0/c07XCBFxHfOWtY34RTBodE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-alwzootfybmibagmkoydzmwxzwyo/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o /Users/gmurray/Downloads/WebBrowserTutorial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o /Users/gmurray/Downloads/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial normal i386
+cGenerateDSYMFile /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+cTouch /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B6DCD510000000000000110
+t1265487185
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B567172000000000026F020
+t1263956338
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B56718B0000000000288B20
+t1263956363
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B56717E0000000000001355
+t1263956350
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B56A2960000000000000970
+t1263968918
+s2416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B56A324000000000211C6C0
+t1263969060
+s34719424
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.h
+c000000004B6E5EDB0000000000000230
+t1265524443
+s560
+i<UIKit/UIKit.h>
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m
+c000000004B721B820000000000000363
+t1265769346
+s867
+i"WebBrowserTutorialAppDelegate.h"
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib
+c000000004B6E8626000000000000696D
+t1265534502
+s26989
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h
+c000000004B6E5BDB00000000000000FF
+t1265523675
+s255
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m
+c000000004B6E5BDB00000000000000B8
+t1265523675
+s184
+i"UITextField.h"
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch
+c0000000048E15E0D00000000000000CD
+t1222729229
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+t1265769350
+s238
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM
+t1265769350
+s102
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist
+t1265506038
+s636
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/MainWindow.nib
+t1265769051
+s2521
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/PkgInfo
+t1265506038
+s8
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+t1265769350
+s19428
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/sample.html
+t1265505731
+s2800
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/UITextField.o
+t2
+s0
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorial.LinkFileList
+c000000004B6E5C6F0000000000000143
+t1265523823
+s323
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+t1265769350
+s24056
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o
+t1265505732
+s5952
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/main.m
+c0000000048E160B0000000000000016D
+t1222729904
+s365
+i<UIKit/UIKit.h>
+
+N/Users/gmurray/Downloads/WebBrowserTutorial/sample.html
+c0000000048DD849A0000000000000AF0
+t1222476954
+s2800
+
+N/var/folders/c0/c07XCBFxHfOWtY34RTBodE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-alwzootfybmibagmkoydzmwxzwyo/WebBrowserTutorial_Prefix.pch.gch
+t1265505732
+s13719376
+
+NInfo.plist
+c0000000048E15E0D0000000000000381
+t1222729229
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287462150#287462150#0(0"0(0#1#0"4300903632#0"0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/UITextField.o /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287216604.170643
+e287216604.218871
+r0
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/UITextField.o
+x/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:8:
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h:11: error: duplicate interface declaration for class 'UITextField'
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h:13: error: redefinition of 'struct UITextField'
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'borderStyle' requires method '-borderStyle' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'borderStyle' requires the method 'setBorderStyle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'placeholder' requires method '-placeholder' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'placeholder' requires the method 'setPlaceholder:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'clearsOnBeginEditing' requires method '-clearsOnBeginEditing' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'clearsOnBeginEditing' requires the method 'setClearsOnBeginEditing:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'background' requires method '-background' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'background' requires the method 'setBackground:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'disabledBackground' requires method '-disabledBackground' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'disabledBackground' requires the method 'setDisabledBackground:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'clearButtonMode' requires method '-clearButtonMode' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'clearButtonMode' requires the method 'setClearButtonMode:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'leftView' requires method '-leftView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'leftView' requires the method 'setLeftView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'leftViewMode' requires method '-leftViewMode' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'leftViewMode' requires the method 'setLeftViewMode:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'rightView' requires method '-rightView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'rightView' requires the method 'setRightView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'rightViewMode' requires method '-rightViewMode' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'rightViewMode' requires the method 'setRightViewMode:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'inputView' requires method '-inputView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'inputView' requires the method 'setInputView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'inputAccessoryView' requires method '-inputAccessoryView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'inputAccessoryView' requires the method 'setInputAccessoryView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: incomplete implementation of class 'UITextField'
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-drawPlaceholderInRect:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-drawTextInRect:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-rightViewRectForBounds:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-leftViewRectForBounds:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-clearButtonRectForBounds:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-editingRectForBounds:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-placeholderRectForBounds:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-textRectForBounds:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-borderRectForBounds:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: incomplete implementation of class 'UITextField'
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-initWithCoder:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-encodeWithCoder:' not found
+o/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: class 'UITextField' does not fully implement the 'NSCoding' protocol
+lSLF07#2@65"Compile /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216604#287216604#0(9993"In file included from /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:8:/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h:11: error: duplicate interface declaration for class 'UITextField'/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h:13: error: redefinition of 'struct UITextField'/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'borderStyle' requires method '-borderStyle' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'borderStyle' requires the method 'setBorderStyle:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'placeholder' requires method '-placeholder' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'placeholder' requires the method 'setPlaceholder:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'clearsOnBeginEditing' requires method '-clearsOnBeginEditing' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'clearsOnBeginEditing' requires the method 'setClearsOnBeginEditing:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'background' requires method '-background' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'background' requires the method 'setBackground:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'disabledBackground' requires method '-disabledBackground' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'disabledBackground' requires the method 'setDisabledBackground:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'clearButtonMode' requires method '-clearButtonMode' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'clearButtonMode' requires the method 'setClearButtonMode:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'leftView' requires method '-leftView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'leftView' requires the method 'setLeftView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'leftViewMode' requires method '-leftViewMode' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'leftViewMode' requires the method 'setLeftViewMode:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'rightView' requires method '-rightView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'rightView' requires the method 'setRightView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'rightViewMode' requires method '-rightViewMode' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'rightViewMode' requires the method 'setRightViewMode:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'inputView' requires method '-inputView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'inputView' requires the method 'setInputView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'inputAccessoryView' requires method '-inputAccessoryView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: property 'inputAccessoryView' requires the method 'setInputAccessoryView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: incomplete implementation of class 'UITextField'/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-drawPlaceholderInRect:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-drawTextInRect:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-rightViewRectForBounds:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-leftViewRectForBounds:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-clearButtonRectForBounds:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-editingRectForBounds:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-placeholderRectForBounds:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-textRectForBounds:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-borderRectForBounds:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: incomplete implementation of class 'UITextField'/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-initWithCoder:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: method definition for '-encodeWithCoder:' not found/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m:12: warning: class 'UITextField' does not fully implement the 'NSCoding' protocol54(4@55"Duplicate interface declaration for class 'UITextField'287216604#83#125#2(7@79"In file included from /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216604#18446744073709551615#0#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#8#0#8#0#0"0(13@116"Duplicate interface declaration for class 'UITextField' in /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h287216604#18446744073709551615#0#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h287216475#11#0#11#0#0"0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h287216475#11#0#11#0#0"0(4@36"Redefinition of 'struct UITextField'287216604#208#106#2(7@79"In file included from /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216604#18446744073709551615#0#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#8#0#8#0#0"0(13@97"Redefinition of 'struct UITextField' in /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h287216604#18446744073709551615#0#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h287216475#13#0#13#0#0"0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.h287216475#13#0#13#0#19"redefinition of '*'0(22@116"Property 'text' requires method '-text' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#314#188#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@123"Property 'text' requires the method 'setText:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#502#195#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@126"Property 'textColor' requires method '-textColor' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#697#198#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@133"Property 'textColor' requires the method 'setTextColor:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#895#205#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@116"Property 'font' requires method '-font' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#1100#188#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@123"Property 'font' requires the method 'setFont:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#1288#195#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@134"Property 'textAlignment' requires method '-textAlignment' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#1483#206#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@141"Property 'textAlignment' requires the method 'setTextAlignment:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#1689#213#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@130"Property 'borderStyle' requires method '-borderStyle' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#1902#202#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@137"Property 'borderStyle' requires the method 'setBorderStyle:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#2104#209#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@130"Property 'placeholder' requires method '-placeholder' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#2313#202#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@137"Property 'placeholder' requires the method 'setPlaceholder:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#2515#209#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@148"Property 'clearsOnBeginEditing' requires method '-clearsOnBeginEditing' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#2724#220#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@155"Property 'clearsOnBeginEditing' requires the method 'setClearsOnBeginEditing:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#2944#227#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@158"Property 'adjustsFontSizeToFitWidth' requires method '-adjustsFontSizeToFitWidth' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#3171#230#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@165"Property 'adjustsFontSizeToFitWidth' requires the method 'setAdjustsFontSizeToFitWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#3401#237#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@138"Property 'minimumFontSize' requires method '-minimumFontSize' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#3638#210#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@145"Property 'minimumFontSize' requires the method 'setMinimumFontSize:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#3848#217#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@124"Property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#4065#196#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@131"Property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#4261#203#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@128"Property 'background' requires method '-background' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#4464#200#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@135"Property 'background' requires the method 'setBackground:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#4664#207#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@144"Property 'disabledBackground' requires method '-disabledBackground' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#4871#216#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@151"Property 'disabledBackground' requires the method 'setDisabledBackground:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#5087#223#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@138"Property 'clearButtonMode' requires method '-clearButtonMode' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#5310#210#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@145"Property 'clearButtonMode' requires the method 'setClearButtonMode:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#5520#217#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@124"Property 'leftView' requires method '-leftView' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#5737#196#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@131"Property 'leftView' requires the method 'setLeftView:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#5933#203#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@132"Property 'leftViewMode' requires method '-leftViewMode' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#6136#204#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@139"Property 'leftViewMode' requires the method 'setLeftViewMode:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#6340#211#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@126"Property 'rightView' requires method '-rightView' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#6551#198#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@133"Property 'rightView' requires the method 'setRightView:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#6749#205#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@134"Property 'rightViewMode' requires method '-rightViewMode' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#6954#206#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@141"Property 'rightViewMode' requires the method 'setRightViewMode:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#7160#213#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@126"Property 'inputView' requires method '-inputView' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#7373#198#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@133"Property 'inputView' requires the method 'setInputView:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#7571#205#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@144"Property 'inputAccessoryView' requires method '-inputAccessoryView' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#7776#216#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@151"Property 'inputAccessoryView' requires the method 'setInputAccessoryView:' to be defined - use @synthesize, @dynamic or provide a method implementation287216604#7992#223#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#0"0(22@48"Incomplete implementation of class 'UITextField'287216604#8215#120#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#38"incomplete implementation of class '*'0(22@57"Method definition for '-drawPlaceholderInRect:' not found287216604#8335#129#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@50"Method definition for '-drawTextInRect:' not found287216604#8464#122#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@58"Method definition for '-rightViewRectForBounds:' not found287216604#8586#130#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@57"Method definition for '-leftViewRectForBounds:' not found287216604#8716#129#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@60"Method definition for '-clearButtonRectForBounds:' not found287216604#8845#132#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@56"Method definition for '-editingRectForBounds:' not found287216604#8977#128#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@60"Method definition for '-placeholderRectForBounds:' not found287216604#9105#132#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@53"Method definition for '-textRectForBounds:' not found287216604#9237#125#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@55"Method definition for '-borderRectForBounds:' not found287216604#9362#127#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@48"Incomplete implementation of class 'UITextField'287216604#9489#120#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-initWithCoder:' not found287216604#9609#121#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@51"Method definition for '-encodeWithCoder:' not found287216604#9730#123#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#35"method definition for '*' not found0(22@68"Class 'UITextField' does not fully implement the 'NSCoding' protocol287216604#9853#140#0(6@57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m287216475#12#0#12#0#51"class '*' does not fully implement the '*' protocol0(0#0#57"/Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m4300903632#2146"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator -I/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/include -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources -include /var/folders/c0/c07XCBFxHfOWtY34RTBodE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-alwzootfybmibagmkoydzmwxzwyo/WebBrowserTutorial_Prefix.pch -c /Users/gmurray/Downloads/WebBrowserTutorial/UITextField.m -o /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/UITextField.o1#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o /Users/gmurray/Downloads/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287462150.648901
+e287462150.763616
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+x/Users/gmurray/Downloads/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/gmurray/Downloads/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m287462150#287462150#0(0"0(0#0#83"/Users/gmurray/Downloads/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m4300903632#2190"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator -I/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/include -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources -include /var/folders/c0/c07XCBFxHfOWtY34RTBodE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-alwzootfybmibagmkoydzmwxzwyo/WebBrowserTutorial_Prefix.pch -c /Users/gmurray/Downloads/WebBrowserTutorial/Classes/WebBrowserTutorialAppDelegate.m -o /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o /Users/gmurray/Downloads/WebBrowserTutorial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287198532.195026
+e287198532.383239
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o
+x/Users/gmurray/Downloads/WebBrowserTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/gmurray/Downloads/WebBrowserTutorial/main.m287198532#287198532#0(0"0(0#0#50"/Users/gmurray/Downloads/WebBrowserTutorial/main.m4300903632#2132"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator -I/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/include -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources -include /var/folders/c0/c07XCBFxHfOWtY34RTBodE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-alwzootfybmibagmkoydzmwxzwyo/WebBrowserTutorial_Prefix.pch -c /Users/gmurray/Downloads/WebBrowserTutorial/main.m -o /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib
+s287461850.821804
+e287461851.149337
+r1
+xCompileXIB
+x/Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib:10: warning: Turning off phone number detection is not supported on iPhone OS versions prior 3.0.
+o/Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib:10: warning: Only phone number detection is supported on iPhone OS versions prior 3.0.
+lSLF07#2@25"CompileXIB MainWindow.xib287461850#287461851#0(344"/* com.apple.ibtool.document.warnings *//Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib:10: warning: Turning off phone number detection is not supported on iPhone OS versions prior 3.0./Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib:10: warning: Only phone number detection is supported on iPhone OS versions prior 3.0.2(22@84"Turning off phone number detection is not supported on iPhone OS versions prior 3.0.287461851#18446744073709551615#0#0(6@58"/Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib287227302#10#0#10#0#0"0(22@73"Only phone number detection is supported on iPhone OS versions prior 3.0.287461851#18446744073709551615#0#0(6@58"/Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib287227302#10#0#10#0#0"0(0#0#58"/Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib4300903632#506"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/MainWindow.nib /Users/gmurray/Downloads/WebBrowserTutorial/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/WebBrowserTutorial.app/sample.html sample.html
+s287198531.386461
+e287198531.394171
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WebBrowserTutorial.app/sample.html
+xsample.html
+lSLF07#2@16"Copy sample.html287198531#287198531#0(0"0(0#0#55"/Users/gmurray/Downloads/WebBrowserTutorial/sample.html4300903632#481"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/gmurray/Downloads/WebBrowserTutorial/sample.html /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app0#
+
+CGenerateDSYMFile /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+s287462150.782395
+e287462150.796968
+r1
+xGenerateDSYMFile
+x/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM
+x/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial287462150#287462150#0(0"0(0#0#113"/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial4300903632#431"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial -o /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app.dSYM0#
+
+CLd /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial normal i386
+s287462150.763775
+e287462150.782298
+r1
+xLd
+x/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial
+xnormal
+xi386
+lSLF07#2@118"Link /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial287462150#287462150#0(0"0(0#0#0"4300903632#942"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator -F/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator -filelist /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorial.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/WebBrowserTutorial0#
+
+CProcessInfoPlistFile /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist Info.plist
+s287198838.330277
+e287198838.333600
+r1
+xProcessInfoPlistFile
+x/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist287198838#287198838#0(0"0(0#0#54"/Users/gmurray/Downloads/WebBrowserTutorial/Info.plist4300903632#508"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app/Info.plist0#
+
+CProcessPCH /var/folders/c0/c07XCBFxHfOWtY34RTBodE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-alwzootfybmibagmkoydzmwxzwyo/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287198531.646744
+e287198532.194916
+r1
+xProcessPCH
+x/var/folders/c0/c07XCBFxHfOWtY34RTBodE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-alwzootfybmibagmkoydzmwxzwyo/WebBrowserTutorial_Prefix.pch.gch
+xWebBrowserTutorial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile WebBrowserTutorial_Prefix.pch287198531#287198532#0(0"0(0#0#73"/Users/gmurray/Downloads/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch7302357493691540480#2008"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator -I/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/include -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/gmurray/Downloads/WebBrowserTutorial/build/WebBrowserTutorial.build/Debug-iphonesimulator/WebBrowserTutorial.build/DerivedSources -c /Users/gmurray/Downloads/WebBrowserTutorial/WebBrowserTutorial_Prefix.pch -o /var/folders/c0/c07XCBFxHfOWtY34RTBodE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-alwzootfybmibagmkoydzmwxzwyo/WebBrowserTutorial_Prefix.pch.gch0#
+
+CTouch /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+s287462150.797055
+e287462150.800469
+r1
+xTouch
+x/Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app
+lSLF07#2@100"Touch /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app287462150#287462150#0(0"0(0#0#0"4300903632#299"    cd /Users/gmurray/Downloads/WebBrowserTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gmurray/Downloads/WebBrowserTutorial/build/Debug-iphonesimulator/WebBrowserTutorial.app0#
+
